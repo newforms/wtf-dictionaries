@@ -1,0 +1,33 @@
+{
+  "id": "anime",
+  "name": "Anime",
+  "version": 1,
+  "words": {
+    "A": "Attack on Titan",
+    "B": "Bleach",
+    "C": "Chopper",
+    "D": "Devil Fruit",
+    "E": "Eren Yeager",
+    "F": "Frieren",
+    "G": "Gojo",
+    "H": "Haki",
+    "I": "Isekai",
+    "J": "Jojo",
+    "K": "Kashimo",
+    "L": "Luffy",
+    "M": "Mob",
+    "N": "Naruto",
+    "O": "One Piece",
+    "P": "Pochita",
+    "Q": "Quirk",
+    "R": "Reigen",
+    "S": "Sanji",
+    "T": "Titan",
+    "U": "Uchiha",
+    "V": "Vinland",
+    "W": "Whitebeard",
+    "X": "Xeno",
+    "Y": "Yuji",
+    "Z": "Zoro"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gobbledygook",
+  "name": "Gobbledygook",
+  "version": 1,
+  "words": {
+    "A": "Absquatulate",
+    "B": "Bamboozle",
+    "C": "Cockamamie",
+    "D": "Doohickey",
+    "E": "Easy-peasy",
+    "F": "Fuddy-duddy",
+    "G": "Gobbledygook",
+    "H": "Hullabaloo",
+    "I": "Itty-bitty",
+    "J": "Jibber-jabber",
+    "K": "Kerfuffle",
+    "L": "Lickety-split",
+    "M": "Mumbo-jumbo",
+    "N": "Nitty-gritty",
+    "O": "Okey-dokey",
+    "P": "Pumpernickel",
+    "Q": "Quackery",
+    "R": "Razzmatazz",
+    "S": "Shenanigans",
+    "T": "Thingamajig",
+    "U": "Upsy-daisy",
+    "V": "Vroooooom",
+    "W": "Whippersnapper",
+    "X": "Xylophone",
+    "Y": "Yada-yada",
+    "Z": "Zigzag"
+  }
+}

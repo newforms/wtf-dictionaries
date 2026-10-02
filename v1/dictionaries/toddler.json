@@ -1,0 +1,33 @@
+{
+  "id": "toddler",
+  "name": "Toddler",
+  "version": 1,
+  "words": {
+    "A": "Apple",
+    "B": "Banana",
+    "C": "Cookie",
+    "D": "Dinosaur",
+    "E": "Eww",
+    "F": "Fuzzy",
+    "G": "Giggle",
+    "H": "Hiccup",
+    "I": "Ice-cream",
+    "J": "Jellybean",
+    "K": "Kitty",
+    "L": "Lollipop",
+    "M": "Muffin",
+    "N": "Night-night",
+    "O": "Oopsie",
+    "P": "Potty",
+    "Q": "Quack",
+    "R": "Rubber-ducky",
+    "S": "Snuggle",
+    "T": "Tickle",
+    "U": "Unicorn",
+    "V": "Vroom",
+    "W": "Wiggle",
+    "X": "Xylophone",
+    "Y": "Yummy",
+    "Z": "Zoom"
+  }
+}

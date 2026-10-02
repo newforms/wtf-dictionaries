@@ -1,0 +1,33 @@
+{
+  "id": "afterparty",
+  "name": "Afterparty",
+  "version": 1,
+  "words": {
+    "A": "Afterparty",
+    "B": "Beer",
+    "C": "Chug",
+    "D": "Dude",
+    "E": "Epic",
+    "F": "Flip-cup",
+    "G": "Guac",
+    "H": "Hangover",
+    "I": "Icebreaker",
+    "J": "Jäger",
+    "K": "Keg",
+    "L": "Lit",
+    "M": "Mosh-pit",
+    "N": "Nachos",
+    "O": "OMG",
+    "P": "Pregame",
+    "Q": "Quarters",
+    "R": "Rager",
+    "S": "Shotgun",
+    "T": "Tequila",
+    "U": "Ugh",
+    "V": "Vibes",
+    "W": "Wingman",
+    "X": "XOXO",
+    "Y": "YOLO",
+    "Z": "Zonked"
+  }
+}

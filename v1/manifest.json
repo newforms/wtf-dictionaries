@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "dictionaries": [
+    {
+      "id": "nato",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/nato.json",
+      "sha256": "095be12850307ef73126acbd127d26a8a4016ee5d7acf5cad6572f5d3b8bf183",
+      "pro": false,
+      "about": "The international standard, used by pilots, sailors and call centers since the 1950s. When in doubt, this is the one the person on the other end already knows."
+    },
+    {
+      "id": "toddler",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/toddler.json",
+      "sha256": "2849dc1937395e1cb02cd38b8554b1adf73533f6d6af5d2c861f9caac2fb545b",
+      "pro": false,
+      "about": "Words a three-year-old would pick. Nobody has ever misheard Rubber-ducky."
+    },
+    {
+      "id": "afterparty",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/afterparty.json",
+      "sha256": "5f882c2d2bfda23d8c5f99722d458fc25fce7751b54f268f7a09a3ff0dc02a15",
+      "pro": false,
+      "about": "Spelling your name like it’s 2 a.m. and the party moved. Maybe not for the bank."
+    },
+    {
+      "id": "genalpha",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/genalpha.json",
+      "sha256": "d9590435568ab117d5c59067731fa3125c56d8ee096d8bb8b97bc9041da25a8b",
+      "pro": false,
+      "about": "The slang your kids use and you don’t get. A 2026 snapshot; it will age, and that’s the point."
+    },
+    {
+      "id": "animals",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/animals.json",
+      "sha256": "d0319fd3b548f689629ba01414dd50fb89e0afdafb77fe699927cb31fd3ef37f",
+      "pro": true,
+      "about": "One animal per letter, zoo order. Works on every age and in every language."
+    },
+    {
+      "id": "anime",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/anime.json",
+      "sha256": "669ebd378f55e674631631dc34250f28298845c0e86e92ccf8665d19f8a76116",
+      "pro": true,
+      "about": "Series, characters and the words around them: Luffy, Frieren, Isekai, and a Q that finally isn’t a stretch.",
+      "credit": "Remi"
+    },
+    {
+      "id": "german",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/german.json",
+      "sha256": "7498a627bb3f0c8e9d9d6332d40c7d51f936eaa274ba9afebdc85bf9cc45adc6",
+      "pro": true,
+      "about": "The classic German spelling alphabet, Anton to Zacharias. Still what everyone in Germany, Austria and Switzerland actually says, whatever the standards committee decided."
+    },
+    {
+      "id": "genx",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/genx.json",
+      "sha256": "0dec0838eedb0486959af89de3223d334518f6a5f9fc78034af0182384e6235f",
+      "pro": true,
+      "about": "Slang from the mall era. Whatever. As if anyone under forty will follow."
+    },
+    {
+      "id": "gobbledygook",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/gobbledygook.json",
+      "sha256": "b0edc8104fdd91a493714bc3d6de3e9d416a706deae719dcf41256ddffeca1fe",
+      "pro": true,
+      "about": "Real words that sound made up: mumbo-jumbo, fuddy-duddy, jibber-jabber. Absquatulate is in the dictionary too; we checked."
+    }
+  ]
+}

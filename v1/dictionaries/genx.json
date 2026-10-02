@@ -1,0 +1,33 @@
+{
+  "id": "genx",
+  "name": "Gen X",
+  "version": 1,
+  "words": {
+    "A": "Awesome",
+    "B": "Bogus",
+    "C": "Chill",
+    "D": "Dude",
+    "E": "Excellent",
+    "F": "Fresh",
+    "G": "Gnarly",
+    "H": "Home slice",
+    "I": "Indie",
+    "J": "Jam",
+    "K": "Killer",
+    "L": "Loser",
+    "M": "Mallrat",
+    "N": "Not",
+    "O": "Old school",
+    "P": "Poser",
+    "Q": "Q*bert",
+    "R": "Radical",
+    "S": "Slacker",
+    "T": "Tubular",
+    "U": "Unplugged",
+    "V": "Valley girl",
+    "W": "Whatever",
+    "X": "X-Files",
+    "Y": "Yo",
+    "Z": "Zine"
+  }
+}
