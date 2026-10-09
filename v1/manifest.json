@@ -27,9 +27,9 @@
     },
     {
       "id": "genalpha",
-      "version": 3,
+      "version": 2,
       "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/genalpha.json",
-      "sha256": "c5f36478edcdc8034eea981200a45417a4c462f2acb3fe18b1378a1a303e589b",
+      "sha256": "e4ef8596d6f3d8048d561ea9aea2bfb9a5ad9a76fc4b0431da152b78bdbfd0ec",
       "pro": false,
       "about": "The slang your kids use and you don’t get. A 2026 snapshot; it will age, and that’s the point."
     },
@@ -76,6 +76,7 @@
     }
   ],
   "removed": [
+    "genalpha",
     "test"
   ]
 }
