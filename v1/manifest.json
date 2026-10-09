@@ -73,14 +73,9 @@
       "sha256": "b0edc8104fdd91a493714bc3d6de3e9d416a706deae719dcf41256ddffeca1fe",
       "pro": true,
       "about": "Real words that sound made up: mumbo-jumbo, fuddy-duddy, jibber-jabber. Absquatulate is in the dictionary too; we checked."
-    },
-    {
-      "id": "test",
-      "version": 1,
-      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/test.json",
-      "sha256": "b21dd6ef2391fca33bae185ddd91b4ae5825d52d0f70d9e7976005dce55d43a3",
-      "pro": true,
-      "about": "A test dictionary. If you can read this, delivery works."
     }
+  ],
+  "removed": [
+    "test"
   ]
 }
