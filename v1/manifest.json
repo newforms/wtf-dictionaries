@@ -27,9 +27,9 @@
     },
     {
       "id": "genalpha",
-      "version": 2,
+      "version": 3,
       "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/genalpha.json",
-      "sha256": "e4ef8596d6f3d8048d561ea9aea2bfb9a5ad9a76fc4b0431da152b78bdbfd0ec",
+      "sha256": "c5f36478edcdc8034eea981200a45417a4c462f2acb3fe18b1378a1a303e589b",
       "pro": false,
       "about": "The slang your kids use and you don’t get. A 2026 snapshot; it will age, and that’s the point."
     },
@@ -73,6 +73,14 @@
       "sha256": "b0edc8104fdd91a493714bc3d6de3e9d416a706deae719dcf41256ddffeca1fe",
       "pro": true,
       "about": "Real words that sound made up: mumbo-jumbo, fuddy-duddy, jibber-jabber. Absquatulate is in the dictionary too; we checked."
+    },
+    {
+      "id": "test",
+      "version": 1,
+      "url": "https://newforms.github.io/wtf-dictionaries/v1/dictionaries/test.json",
+      "sha256": "b21dd6ef2391fca33bae185ddd91b4ae5825d52d0f70d9e7976005dce55d43a3",
+      "pro": true,
+      "about": "A test dictionary. If you can read this, delivery works."
     }
   ]
 }

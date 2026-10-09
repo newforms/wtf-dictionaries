@@ -1,0 +1,33 @@
+{
+  "id": "test",
+  "name": "Test",
+  "version": 1,
+  "words": {
+    "A": "Antelope",
+    "B": "Badger",
+    "C": "Cheetah",
+    "D": "Dolphin",
+    "E": "Elephant",
+    "F": "Flamingo",
+    "G": "Giraffe",
+    "H": "Hippo",
+    "I": "Iguana",
+    "J": "Jaguar",
+    "K": "Kangaroo",
+    "L": "Lion",
+    "M": "Monkey",
+    "N": "Narwhal",
+    "O": "Octopus",
+    "P": "Penguin",
+    "Q": "Quail",
+    "R": "Rabbit",
+    "S": "Snake",
+    "T": "Tiger",
+    "U": "Unicorn",
+    "V": "Vulture",
+    "W": "Walrus",
+    "X": "X-ray fish",
+    "Y": "Yak",
+    "Z": "Zebra"
+  }
+}
