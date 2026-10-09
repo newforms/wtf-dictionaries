@@ -74,9 +74,5 @@
       "pro": true,
       "about": "Real words that sound made up: mumbo-jumbo, fuddy-duddy, jibber-jabber. Absquatulate is in the dictionary too; we checked."
     }
-  ],
-  "removed": [
-    "genalpha",
-    "test"
   ]
 }
